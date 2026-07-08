@@ -1,0 +1,7 @@
+import streamlit as st
+st.set_page_config(page_title="Ignis; O seu site musical.")
+st.title("Olá Guilhere, bem vindo ao seu proprio site de Musicas.")
+st.title(" O IGNIS")
+st.divider()
+st.write("olá guilherme, aqui temos um modelo simples de site para começo de uma experiencia musical de outro nível.")
+st.image("https://s3.wasabisys.com/michael.smserver.com.br/guitarra-rocker_734f.png")
